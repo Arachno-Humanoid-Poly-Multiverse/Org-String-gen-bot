@@ -19,18 +19,18 @@ async def start(bot: Client, msg: Message):
 ꜰᴜʟʟʏ ꜱᴀꜰᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ.
 ɴᴏ ᴇʀʀᴏʀ.
 
-ᴍᴀᴅᴇ ʙʏ  : [ᴛᴇᴀᴍ ᴄʀᴇᴀᴛᴏʀ](t.me/the_creator_botz) !""",
+ᴍᴀᴅᴇ ʙʏ  : [ᴠʀ ᴜɴʀᴇᴀʟ](https://t.me/vr_support) !""",
         reply_markup=InlineKeyboardMarkup(
             [
               [
-                    InlineKeyboardButton("ᴀᴅᴍɪɴ 1", url="https://t.me/shubham_X_Official"),
-                    InlineKeyboardButton("ᴀᴅᴍɪɴ 2", url="https://t.me/shubham_X_Official")
+                    InlineKeyboardButton("⚡️ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡️", url="https://t.me/VR_String_Gen_Bot"),
+                    InlineKeyboardButton("✨ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨", url="https://t.me/unreal_X_shubham")
               ],[
                     InlineKeyboardButton(text="ɢᴇɴʀᴀᴛᴇ ꜱᴛʀɪɴɢ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/the_creator_support_group"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/the_creator_botz")
+                    InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/vr_support"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/vr_unreal")
                 ]
             ]
         ),
