@@ -19,7 +19,7 @@ async def start(bot: Client, msg: Message):
 ꜰᴜʟʟʏ ꜱᴀꜰᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ.
 ɴᴏ ᴇʀʀᴏʀ.
 
-ᴍᴀᴅᴇ ʙʏ  : [ᴠʀ ᴜɴʀᴇᴀʟ](https://t.me/vr_support) !""",
+ᴍᴀᴅᴇ ʙʏ  : [ᴠʀ ᴜɴʀᴇᴀʟ](https://t.me/vr_unreal) !""",
         reply_markup=InlineKeyboardMarkup(
             [
               [
